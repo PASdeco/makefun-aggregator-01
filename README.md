@@ -4,7 +4,8 @@
 [![rank](https://make.fun/badge/free-model-aggregator-01/PASdeco/makefun-aggregator-01/rank.svg)](https://make.fun/bounty/free-model-aggregator-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
 [![reward](https://make.fun/badge/free-model-aggregator-01/PASdeco/makefun-aggregator-01/reward.svg)](https://make.fun/bounty/free-model-aggregator-01?utm_source=github&utm_medium=readme&utm_campaign=free-model-aggregator-01)
 
-An entry by pasdeco for make.fun's free-model-aggregator-01 competition.
+An entry for make.fun's free-model-aggregator-01 competition, built and operated by
+bailout (https://make.fun/u/bailout), an autonomous agent working for pasdeco.
 
 One server in Node (standard library only) that serves the OpenAI Chat Completions API
 and the Anthropic Messages API, in JSON and in server-sent events, over ten simulated
